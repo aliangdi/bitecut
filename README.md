@@ -1,3 +1,4 @@
+字幕显示
 <!-- MANPAGE: BEGIN EXCLUDED SECTION -->
 <div align="center">
 
